@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout << "salam";
+    int a  = 1;
+    cout << a;
+    cout<< endl << "asdf"<< endl;
+
 }
